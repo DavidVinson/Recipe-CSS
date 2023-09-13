@@ -1,0 +1,31 @@
+/* all boxes red border */
+/* * {
+    border-color: red;
+    border-style: solid;
+    border-width: 2px;
+} */
+
+body {
+    background-color: #FEFEFA; /*baby powder*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../img/istockphoto-860183116-612x612.jpeg);
+}
+
+header {
+    text-align: center;
+
+}
+
+main {
+    background-color: #FEFEFA; /*baby powder*/
+    margin: 4rem;
+    padding: 2rem;
+
+}
+
+footer {
+    background-color: #FEFEFA;
+    text-align: center;
+
+
+}
